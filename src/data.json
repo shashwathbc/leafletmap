@@ -1,0 +1,68 @@
+[
+  {
+    "id" : 1,
+    "city": "Tokyo",
+    "gps": {
+      "lat": 35.6897,
+      "lng": 139.6922
+    },
+    "country": "Japan",
+    "data" : 490
+  },
+
+  {
+    "id" : 2,  
+    "city": "Maharashtra",
+    "gps": {
+      "lat": 19.601194,
+      "lng": 75.552979
+    },
+    "country": "India",
+    "data" : 990
+  },
+
+  {
+    "id" : 3,  
+    "city": "Kerala",
+    "gps": {
+      "lat": 10.850516,
+        "lng": 76.27108
+    },
+    "country": "India",
+    "data" : 790
+  },
+
+  {
+    "id" : 4,
+    "city": "Delhi",
+    "gps": {
+      "lat": 28.66,
+      "lng": 77.23
+    },
+    "country": "India",
+    "data" : 410
+  },
+  {
+    "id" : 5,
+    "city": "MP",
+    "gps": {
+      "lat": 22.989036956520625,
+      "lng": 77.92496667703305
+    },
+    "country": "India",
+    "data" : 410
+  },
+  {
+    "id" : 6,
+    "city": "sudan",
+    "gps": {
+      "lat": 16.54182390636666,
+      "lng": 27.660244276184866
+    },
+    "country": "sudan",
+    "data" : 410
+  }
+
+]
+
+
